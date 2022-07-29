@@ -3,7 +3,7 @@
 
 The page we're replicating in this repo: https://stripe.com/docs/checkout/quickstart
 
-## 🎉 [Click Here to see this Project's Website](https://aaronespasa.github.io/stripe-docs-scrollycoding/)
+## 🎉 [Click Here to see this Project's Website](https://aaronespasa.github.io/stripe-docs-scrollycoding-vite/)
 
 ## 🛠 Tools
 #### Frontend build tool
