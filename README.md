@@ -13,5 +13,5 @@ The page we're replicating in this repo: https://stripe.com/docs/checkout/quicks
 [**React**](https://reactjs.org/): It's the most popular frontend library in the world.
 
 Main React libraries:
-- [**@mdx-js/rollup**](@mdx-js/rollup): Vite uses Rollup for its bundling, so we need to use this loader to convert MDX files to React components.
+- [**@mdx-js/rollup**](https://mdxjs.com/packages/rollup/): Vite uses Rollup for its bundling, so we need to use this loader to convert MDX files to React components.
 - [**@code-hike/mdx**](https://codehike.org/): Allows us to use the ScrollyCoding component inside the Markdown files.
