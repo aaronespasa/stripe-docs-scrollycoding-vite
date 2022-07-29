@@ -31,5 +31,6 @@ export default defineConfig(async () => {
         'react/jsx/runtime': 'react/jsx-runtime.js',
       },
     },
+    base: 'https://aaronespasa.github.io/stripe-docs-scrollycoding-vite/'
   }
 })

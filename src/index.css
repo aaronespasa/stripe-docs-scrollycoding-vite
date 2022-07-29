@@ -1024,3 +1024,23 @@ article>div {
   margin: 0 auto;
   max-width: 1200px;
 }
+
+article p {
+  line-height: 26px;
+  font-size: 16px;
+  color: var(--sail-color-text);
+  padding-top: var(--default-vertical-spacing);
+}
+
+article h2 {
+  font-weight: 700;
+  font-size: var(--sail-font-size-20);
+}
+
+article h3 {
+  font-weight: 600;
+  margin: 0;
+  padding: 0;
+  line-height: 24px;
+  font-size: 16px;
+}
